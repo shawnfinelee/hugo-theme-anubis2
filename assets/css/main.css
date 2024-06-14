@@ -334,7 +334,8 @@ header h2 {
     margin-top: 1em;
 }
 
-.header-top-left {
+.header-top-left,
+.header-top-right {
     display: flex;
     align-items: center;
     justify-content: space-between;
